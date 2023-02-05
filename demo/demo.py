@@ -52,7 +52,7 @@ if __name__ == "__main__":
 
     # mlflow.set_tracking_uri("http://127.0.0.1:1234")
 
-    # mlflow.set_experiment("mlflow_demo")
+    mlflow.set_experiment("mlflow_demo_experiment")
 
     with mlflow.start_run(run_name="LRmodel") as mlops_run:
         lr = ElasticNet(alpha=alpha, l1_ratio=l1_ratio, random_state=42)
