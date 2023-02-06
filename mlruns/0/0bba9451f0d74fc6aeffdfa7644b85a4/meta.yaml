@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Vaasu%20Bisht/Desktop/experiments/learning-mlflow/mlruns/0/0bba9451f0d74fc6aeffdfa7644b85a4/artifacts
+end_time: 1675648057120
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0bba9451f0d74fc6aeffdfa7644b85a4
+run_name: crawling-tern-555
+run_uuid: 0bba9451f0d74fc6aeffdfa7644b85a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675648045441
+status: 3
+tags: []
+user_id: Vaasu Bisht
