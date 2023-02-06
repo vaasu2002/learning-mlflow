@@ -14,7 +14,7 @@ import mlflow.keras
 
 mlflow.set_tracking_uri("http://127.0.0.1:1234")
 
-mlflow.set_experiment("keras-tensorlow-example")
+mlflow.set_experiment("keras-tensorlow-example_2")
 
 
 mlflow.keras.autolog()

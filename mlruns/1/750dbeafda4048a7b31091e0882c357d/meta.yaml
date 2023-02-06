@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Vaasu%20Bisht/Desktop/experiments/learning-mlflow/mlruns/1/750dbeafda4048a7b31091e0882c357d/artifacts
+end_time: 1675652651892
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 750dbeafda4048a7b31091e0882c357d
+run_name: orderly-goat-236
+run_uuid: 750dbeafda4048a7b31091e0882c357d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675652640894
+status: 3
+tags: []
+user_id: Vaasu Bisht

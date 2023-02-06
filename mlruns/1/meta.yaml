@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/Vaasu%20Bisht/Desktop/experiments/learning-mlflow/mlruns/1
+creation_time: 1675652640102
+experiment_id: '1'
+last_update_time: 1675652640102
+lifecycle_stage: active
+name: keras-tensorlow-example
