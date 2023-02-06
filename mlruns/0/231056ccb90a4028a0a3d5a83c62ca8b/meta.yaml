@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Vaasu%20Bisht/Desktop/experiments/learning-mlflow/mlruns/0/231056ccb90a4028a0a3d5a83c62ca8b/artifacts
+end_time: 1675647265710
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 231056ccb90a4028a0a3d5a83c62ca8b
+run_name: 1_neighbors
+run_uuid: 231056ccb90a4028a0a3d5a83c62ca8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675647265691
+status: 3
+tags: []
+user_id: Vaasu Bisht
